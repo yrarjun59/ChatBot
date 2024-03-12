@@ -1,0 +1,14 @@
+ai21==2.1.2
+ai21-tokenizer==0.3.11
+certifi==2024.2.2
+charset-normalizer==3.3.2
+dataclasses-json==0.6.4
+idna==3.6
+marshmallow==3.21.1
+mypy-extensions==1.0.0
+packaging==24.0
+requests==2.31.0
+sentencepiece==0.1.99
+typing-inspect==0.9.0
+typing_extensions==4.10.0
+urllib3==2.2.1

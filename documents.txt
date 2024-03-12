@@ -1,0 +1,90 @@
+1. **To Kill a Mockingbird**
+   - Author: Harper Lee
+   - Genre: Fiction
+   - Price: $14.99
+
+2. **1984**
+   - Author: George Orwell
+   - Genre: Dystopian
+   - Price: $12.49
+
+3. **The Great Gatsby**
+   - Author: F. Scott Fitzgerald
+   - Genre: Classic
+   - Price: $10.99
+
+4. **The Catcher in the Rye**
+   - Author: J.D. Salinger
+   - Genre: Coming-of-age
+   - Price: $9.99
+
+5. **Pride and Prejudice**
+   - Author: Jane Austen
+   - Genre: Romance
+   - Price: $11.99
+
+6. **The Hobbit**
+   - Author: J.R.R. Tolkien
+   - Genre: Fantasy
+   - Price: $15.99
+
+7. **Think and Grow Rich**
+   - Author: Napoleon Hill
+   - Genre: Self-help
+   - Price: $13.99
+
+8. **Bhagavad Gita**
+   - Author: Vyasa
+   - Genre: Spirituality
+   - Price: $12.99
+
+9. **The Power of Now**
+   - Author: Eckhart Tolle
+   - Genre: Spirituality
+   - Price: $14.99
+
+10. **The Seven Spiritual Laws of Success**
+    - Author: Deepak Chopra
+    - Genre: Spirituality
+    - Price: $11.99
+
+11. **A New Earth**
+    - Author: Eckhart Tolle
+    - Genre: Spirituality
+    - Price: $13.99
+
+12. **The Celestine Prophecy**
+    - Author: James Redfield
+    - Genre: Spirituality
+    - Price: $10.99
+
+13. **The Alchemist**
+    - Author: Paulo Coelho
+    - Genre: Fiction
+    - Price: $12.99
+
+14. **The Lord of the Rings**
+    - Author: J.R.R. Tolkien
+    - Genre: Fantasy
+    - Price: $18.99
+
+15. **Harry Potter and the Sorcerer's Stone**
+    - Author: J.K. Rowling
+    - Genre: Fantasy
+    - Price: $16.99
+
+16. **Dune**
+    - Author: Frank Herbert
+    - Genre: Science Fiction
+    - Price: $17.99
+
+17. **Brave New World**
+    - Author: Aldous Huxley
+    - Genre: Dystopian
+    - Price: $14.49
+
+18. **The Hitchhiker's Guide to the Galaxy**
+    - Author: Douglas Adams
+    - Genre: Science Fiction
+    - Price: $11.99
+
